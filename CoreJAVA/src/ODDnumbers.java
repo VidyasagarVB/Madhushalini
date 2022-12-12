@@ -1,0 +1,20 @@
+
+public class ODDnumbers {
+
+	public static void main(String[] args) {
+		int x=1;
+		
+		while(x<=50) {
+			
+			if(x%2==1) {
+				
+				System.out.println(x);
+				
+				
+			}
+			
+			x++;
+		}
+	}
+
+}
